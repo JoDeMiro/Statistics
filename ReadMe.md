@@ -1,4 +1,4 @@
-# Statisztikia Hipotézis vizsgálat
+# Statisztikai Hipotézis vizsgálat
 
 Ebben a részben a statisztikai hipotézis viszgálat témakörével fogok foglalkozni.
 
