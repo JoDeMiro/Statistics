@@ -14,4 +14,4 @@ A jegyzetet Dr. Prof. Takács Márta tanárnő - Statisztikai hipotézisvizsgál
 
 <img src="https://github.com/JoDeMiro/Statistics/blob/main/images/student-eloszlas-1.png?raw=true"></img>
 
-<img src="https://github.com/JoDeMiro/Statistics/blob/main/images/student-eloszlas-2.gif?raw=true" width="683" height="558"></img>
+<img src="https://github.com/JoDeMiro/Statistics/blob/main/images/student-eloszlas-2.png?raw=true" width="683" height="558"></img>
