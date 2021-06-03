@@ -12,6 +12,8 @@ témakörére is.
 A jegyzetet Dr. Prof. Takács Márta tanárnő - Statisztikai hipotézisvizsgálat című tantárgyához készítettem a 2021/2 félévben.
 
 
+<img src="https://github.com/JoDeMiro/Statistics/blob/main/images/normalis-eloszlas-0.png?raw=true"></img>
+
 <img src="https://github.com/JoDeMiro/Statistics/blob/main/images/student-eloszlas-1.png?raw=true"></img>
 
 <img src="https://github.com/JoDeMiro/Statistics/blob/main/images/student-eloszlas-2.png?raw=true"></img>
