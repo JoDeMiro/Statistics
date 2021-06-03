@@ -9,7 +9,7 @@ A kurzus/tanulmány során ki fogok térni
 - a statisztiki próbák
 témakörére is.
 
-A jegyzetet Dr. Prof. Takács Márta tanárnő - Statisztikai hipotézisvizsgálat című tantárgyához készítettem a 2021/2 félévben.
+A jegyzetet Dr. Prof. Takács Márta tanárnő - Statisztikai hipotézisvizsgálat című tantárgyához készítettem a 2021/1 félévben.
 
 <img src="https://github.com/JoDeMiro/Statistics/blob/main/images/normalis_eloszlas_0.png?raw=true"></img>
 
